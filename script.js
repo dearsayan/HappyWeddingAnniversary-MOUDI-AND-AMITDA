@@ -17,32 +17,32 @@ function changeContent(index) {
   
     switch (index) {
       case 0:
-        title = "🎉 Happy Birthday Sutapa 🎂";
-        description = "Wishing you a fantastic birthday filled with joy and laughter! May your day be as sweet as cake!";
+        title = "Moudi & Amitda: Love Odyssey! 🌌💑";
+        description = "🎉 Happy 2nd Marriage Anniversary, dear Moudi and esteemed Amitda! May this splendid occasion mark the continuation of your beautiful journey, filled with cherished memories and a love that deepens with each passing day.";
         break;
       case 1:
-        title = "🌟 Cheers to You, Sutapa! 🎈";
-        description = "May your day be as special as you are. Here's to another year of amazing memories and lots of cake!";
+        title = "Two Years, Forever Love! 💖🎉";
+        description = "🌟 On this auspicious day, may every fleeting moment be imbued with the same enchantment and significance as the day you both proclaimed your eternal love. Happy Anniversary, Moudi and Amitda!";
         break;
       case 2:
-        title = "🎂 Time for Celebration! 🎉";
-        description = "Happy Birthday! Wishing you a day filled with love, laughter, and of course, delicious cake!";
+        title = "Anniversary Tapestry Unfurls. 🎨📜";
+        description = "🥂 Let's raise a toast to the remarkable couple, Moudi and Amitda, whose enduring love and unwavering commitment serve as a beacon of inspiration. May your journey be adorned with countless unforgettable moments and milestones.";
         break;
       case 3:
-        title = "🎁 Best Wishes on Your Birthday! 🎊";
-        description = "Sending you lots of love and good vibes on your special day. Enjoy every moment and every slice of cake!";
+        title = "Love Blooms, Cheers! 🌹🥂";
+        description = "🌹 Happy Anniversary! May the flame of your love glow with increasing intensity, lighting up the path to a lifetime of shared dreams, mutual understanding, and unwavering support.";
         break;
       case 4:
-        title = "🎂 Another Year, Another Cake! 🥳";
-        description = "As you blow out the candles, may all your wishes come true. Here's to a year filled with joy, success, and more cake!";
+        title = "Joyful Two-Year Symphony! 🎶💫";
+        description = "💑 Two wonderful years have passed, and here's to countless more ahead! May your journey continue to be graced with love that deepens, understanding that grows, and a happiness that multiplies.";
         break;
       case 5:
-        title = "🍰 Happy Birthday, Sutapa! 🎉";
-        description = "Wishing you a year ahead filled with happiness, prosperity, and lots of cake! Cheers to you!";
+        title = "Moudi, Amitda: Love Chronicles! 📖💞";
+        description = "🌈 Sending heartfelt wishes for a future that mirrors the vibrancy of a rainbow—filled with colors of joy, love, and unwavering support. Happy 2nd Anniversary, Moudi and Amitda!";
         break;
       default:
-        title = `🎉 Happy Birthday Sutapa ${index + 1} 🎂`;
-        description = "Wishing you a day as fabulous as you are! Happy Birthday! Enjoy the celebration and the cake!";
+        title = `Moudi, Amitda: Eternal Unity! 🔗💍 ${index + 1}💞 `;
+        description = "🎊 Congratulations on reaching this magnificent milestone! May the years ahead unfold like a tapestry, woven with threads of shared experiences, challenges overcome, and love that only deepens with time.";
         break;
     }
   
